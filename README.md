@@ -28,8 +28,10 @@ Files:
 * Feature distribution analysis
 * Correlation analysis
 
-
+Correlation Heatmap::
 ![Correlation Heatmap](images/correlation_heatmap.png)
+
+Sale Price Distribution
 ![Sale Price Distribution](images/saleprice_distribution.png)
 
 ### 2. Feature Engineering
@@ -39,7 +41,7 @@ Files:
 * Encoding features
 * Removing low-information columns
 
-
+Top Features in Prediction:
 ![Top Features](images/topfeatures.png)
 
 ### 3. Model Training
@@ -50,7 +52,7 @@ Models trained:
 * Ridge Regression    rmse 0.142
 * Lasso Regression    rmse 0.145
 
-
+Actual vs Predicted Price:
 ![Actual VS Predicted Price](images/actual_vs_predicted.png)
 
 ### 4. Hyperparameter Tuning
