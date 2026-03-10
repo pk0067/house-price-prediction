@@ -27,6 +27,8 @@ Files:
 * Handling missing values
 * Feature distribution analysis
 * Correlation analysis
+
+
 ![Correlation Heatmap](images/correlation_heatmap.png)
 ![Sale Price Distribution](images/saleprice_distribution.png)
 
@@ -36,6 +38,8 @@ Files:
 * Handling categorical variables
 * Encoding features
 * Removing low-information columns
+
+
 ![Top Features](images/topfeatures.png)
 
 ### 3. Model Training
@@ -45,6 +49,8 @@ Models trained:
 * Linear Regression   rmse 0.2
 * Ridge Regression    rmse 0.142
 * Lasso Regression    rmse 0.145
+
+
 ![Actual VS Predicted Price](images/actual_vs_predicted.png)
 
 ### 4. Hyperparameter Tuning
